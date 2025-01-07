@@ -1,0 +1,51 @@
+div {
+    width: 50%;
+    margin: auto;
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+#header-info {
+    line-height: 0.5;
+}
+
+h1 {
+    font-family: "Asap", serif;
+    font-weight: 650;
+    font-size: 43px;
+}
+
+h2 {
+    font-family: "Asap", serif;
+    font-weight: 650;
+    font-size: 29px;
+}
+
+p {
+    font-family: "Asap", serif;
+    font-size: 20px;
+
+    /* Space between paragraphs */
+    margin-bottom: 25px;
+}
+
+.slightly-smaller-p {
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+hr {
+    border: 1px solid #dedfe0;
+}
+
+.body-text {
+    width: 50%;
+    text-align: justify;
+    line-height: 1.4;
+}
